@@ -5,14 +5,14 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyCVaKMq9COE2pCufZWdFWH3hTXUpPGOORM",
-    authDomain: "richard-fbcc0.firebaseapp.com",
-    databaseURL: "https://richard-fbcc0-default-rtdb.firebaseio.com",
-    projectId: "richard-fbcc0",
-    storageBucket: "richard-fbcc0.firebasestorage.app",
-    messagingSenderId: "476802012051",
-    appId: "1:476802012051:web:ddbd28dae8158e16140e66",
-    measurementId: "G-ZGNN843Z50"
+    apiKey: "AIzaSyCEKPhpkPdWGtLFxJXiJx5WzNAc8u8qhVU",
+    authDomain: "bb-3abd4.firebaseapp.com",
+    databaseURL: "https://bb-3abd4-default-rtdb.firebaseio.com",
+    projectId: "bb-3abd4",
+    storageBucket: "bb-3abd4.firebasestorage.app",
+    messagingSenderId: "713537563741",
+    appId: "1:713537563741:web:729d0c8aebe201e221b1b4",
+    measurementId: "G-GLN4KW5CJZ"
   }
 };
 
